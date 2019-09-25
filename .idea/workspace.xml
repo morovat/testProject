@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="747e20a8-4805-48e8-be07-cc9267972f92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aaa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aaa.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569399412001</updated>
       <workItem from="1569399413412" duration="965000" />
-      <workItem from="1569406834064" duration="948000" />
+      <workItem from="1569406834064" duration="1509000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="first">
       <created>1569407466540</created>
@@ -68,7 +69,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
       <updated>1569407722875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎۰۰۰۰۳" summary="first a">
+      <created>1569407829009</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
+      <updated>1569407829009</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="first a" />
+    <option name="LAST_COMMIT_MESSAGE" value="first a" />
   </component>
 </project>
