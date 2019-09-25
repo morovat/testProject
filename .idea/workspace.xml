@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="747e20a8-4805-48e8-be07-cc9267972f92" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa.html" beforeDir="false" />
-    </list>
+    <list default="true" id="747e20a8-4805-48e8-be07-cc9267972f92" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +26,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kubakproject" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
@@ -55,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569399412001</updated>
       <workItem from="1569399413412" duration="965000" />
-      <workItem from="1569406834064" duration="1509000" />
+      <workItem from="1569406834064" duration="1760000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="first">
       <created>1569407466540</created>
@@ -75,7 +72,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
       <updated>1569407829009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎۰۰۰۰۴" summary="first a">
+      <created>1569408423174</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
+      <updated>1569408423174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
